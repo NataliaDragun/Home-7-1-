@@ -6,4 +6,13 @@ body {
   margin: 0;
   padding: 0;
   background-color: beige;
+}
+
+.header {
+  text-align: center;
+  border: 2px solid brown;
+}
+
+.header__list {
+  list-style: none;
 }/*# sourceMappingURL=main.css.map */
