@@ -8,6 +8,7 @@ body {
   background-color: beige;
 }
 
+
 .footer {
   text-align: center;
 }
@@ -15,4 +16,18 @@ body {
 .footer__image {
   width: 500px;
   height: 500px;
+
+
+.product__description {
+  font-weight: bold;
+  text-align: center;
+
+.header {
+  text-align: center;
+  border: 2px solid brown;
+}
+
+.header__list {
+  list-style: none;
+
 }/*# sourceMappingURL=main.css.map */
