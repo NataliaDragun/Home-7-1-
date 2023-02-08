@@ -1,1 +1,5 @@
+
+{"version":3,"sources":["_default.scss","main.css","_variables.scss","_section.scss"],"names":[],"mappings":"AAAA;EACE,sBAAA;ACCF;;ADGA;EACE,SAAA;EACA,UAAA;EAEA,uBERc;ADOhB;;AERA;EACE,iBAAA;EAEA,kBAAA;AFUF","file":"main.css"}
+
 {"version":3,"sources":["_default.scss","main.css","_variables.scss","_header.scss"],"names":[],"mappings":"AAAA;EACE,sBAAA;ACCF;;ADGA;EACE,SAAA;EACA,UAAA;EAEA,uBERc;ADOhB;;AERA;EACE,kBAAA;EAEA,uBAAA;AFUF;;AEPA;EACE,gBAAA;AFUF","file":"main.css"}
+
