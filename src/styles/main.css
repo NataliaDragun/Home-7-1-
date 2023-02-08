@@ -6,4 +6,9 @@ body {
   margin: 0;
   padding: 0;
   background-color: beige;
+}
+
+.product__description {
+  font-weight: bold;
+  text-align: center;
 }/*# sourceMappingURL=main.css.map */
