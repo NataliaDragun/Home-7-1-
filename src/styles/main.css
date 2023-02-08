@@ -8,7 +8,17 @@ body {
   background-color: beige;
 }
 
+
 .product__description {
   font-weight: bold;
   text-align: center;
+
+.header {
+  text-align: center;
+  border: 2px solid brown;
+}
+
+.header__list {
+  list-style: none;
+
 }/*# sourceMappingURL=main.css.map */
