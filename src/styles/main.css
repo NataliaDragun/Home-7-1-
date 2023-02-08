@@ -9,6 +9,15 @@ body {
 }
 
 
+.footer {
+  text-align: center;
+}
+
+.footer__image {
+  width: 500px;
+  height: 500px;
+
+
 .product__description {
   font-weight: bold;
   text-align: center;
